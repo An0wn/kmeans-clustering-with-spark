@@ -6,7 +6,7 @@ KMeans Clustering with Apache Spark
 
 Here we are going to use **Spark** to perform **KMeans Clustering** on [Wholesale customer data](https://archive.ics.uci.edu/ml/machine-learning-databases/00292/) ...
 
-``` scala
+``` r
 ## run the application from command line
 $ cd app/path
 
